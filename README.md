@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YagoAmaral
 - 👀 I’m interested in improve my codes and share my advances
 - 🌱 I’m currently learning Microsoft PBI and Python for Data Science
-- 📫 How to reach me yagoamaral.eng@gmail.com
+- 📫 How to reach me yagoamaral.eng@gmail.com https://www.linkedin.com/in/yago-amaral-9692b9b1/
 
 <!---
 YagoAmaral/YagoAmaral is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
